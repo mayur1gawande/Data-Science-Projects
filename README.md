@@ -1,6 +1,6 @@
 # 📊 Data Science Projects
 
-A curated collection of hands-on data science and machine learning projects. Each folder contains a complete project with code, notebooks, datasets (or links), and detailed documentation.
+A curated collection of hands-on data science and machine learning projects. Each folder contains a complete project with code, notebooks, datasets (or links).
 
 ---
 
